@@ -1,6 +1,6 @@
 # mp4b4
 
-![mp4b4](imgur.com image replace me!)
+![mp4b4](https://i.imgur.com/OiPxXRp.jpg)
 
 *A short description of the keyboard/project*
 
