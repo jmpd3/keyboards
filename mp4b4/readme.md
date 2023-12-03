@@ -5,7 +5,7 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [jmpd3](https://github.com/jmpd3)
-* Hardware Supported: *YD-2040 or any clone*
+* Hardware Supported: *YD-2040 or a clone*
 * Hardware Availability: *https://www.aliexpress.com/item/1005003928558306.html*
 
 Make example for this keyboard (after setting up your build environment):
