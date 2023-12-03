@@ -6,7 +6,7 @@
 
 * Keyboard Maintainer: [jmpd3](https://github.com/jmpd3)
 * Hardware Supported: *YD-2040 or any clone*
-* Hardware Availability: *[Links to where you can find this hardware](https://www.aliexpress.com/item/1005003928558306.html)*
+* Hardware Availability: *(https://www.aliexpress.com/item/1005003928558306.html)*
 
 Make example for this keyboard (after setting up your build environment):
 
