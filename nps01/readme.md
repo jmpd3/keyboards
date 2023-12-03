@@ -1,27 +1,17 @@
 # nps01
 
-![nps01](imgur.com image replace me!)
+![nps01](https://i.imgur.com/tzINn4x.jpg)
 
-*A short description of the keyboard/project*
-
-* Keyboard Maintainer: [jose](https://github.com/jmpd3)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+The MP4B4 is a 4 by 4 key handwired macropad featuring a YD-RP2040 board as its central processing unit. Encased in a modified Void 16 case tailored to accommodate the controller, this keyboard offers 8 programmable layers. The default 2 layers operate as a numpad, and the built-in RGB LED serves as a layer indicator
+* Keyboard Maintainer: [jmpd3](https://github.com/jmpd3)
+* Hardware Supported: *YD-RP2040 or a clone*
+* Hardware Availability:
+  [YD-RP2040 clone](https://www.aliexpress.com/item/1005003928558306.html)
+  
 
 Make example for this keyboard (after setting up your build environment):
 
-    make nps01:default
-
-Flashing example for this keyboard:
-
-    make nps01:default:flash
+    make nps01:vial
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
-## Bootloader
-
-Enter the bootloader in 3 ways:
-
-* **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
