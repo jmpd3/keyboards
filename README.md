@@ -1,2 +1,2 @@
-# Repositorio para los teclados handwired hechos con Qmk y Vial
+# repo for the source code of my Vial keyboards
 
