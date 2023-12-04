@@ -8,10 +8,8 @@ The MP4B4 is a 4 by 4 key handwired macropad featuring a YD-RP2040 board as its 
 * Hardware Availability:
   
   [YD-RP2040 clone](https://www.aliexpress.com/item/1005003928558306.html)
-  
-  3d model:
-  
-  [original VOID 16 case](https://www.thingiverse.com/thing:4209505)
+
+  [original VOID 16 case 3d model](https://www.thingiverse.com/thing:4209505)
   
 
 Make example for this keyboard (after setting up your build environment):
